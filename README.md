@@ -20,32 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# CRYPTO HEINEKEN COIN
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+VIDEO DE UM AVATAR DESCREVENDO UMA INOVADORA CRIPTO MOEDA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+COPILOT 
+ELEVENLABS
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o COPILOT criar um roteiro de uma nova cripto moeda basseada na cerveja heineken
+Usei ELEVENLABS para criação do audio e p para criação do avatar e video D-ID.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://studio.d-id.com/share?id=51a455cf7c370060550e09fc3bb614be&utm_source=copy
